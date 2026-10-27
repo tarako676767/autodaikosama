@@ -9,3 +9,4 @@ pycryptodome
 cryptography
 msgpack
 bcsfe
+flask
